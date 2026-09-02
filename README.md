@@ -4,7 +4,7 @@ M.S. CS @ **University of Florida**
 
 ### Connect
 
-LinkedIn • [pulkitgarg777@gmail.com](mailto:pulkitgarg777@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pulkit-garg-13052003pg/) • [pulkitgarg777@gmail.com](mailto:pulkitgarg777@gmail.com)
 
 ### Experience
 
