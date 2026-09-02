@@ -2,11 +2,11 @@
 
 ### AI/ML Engineer | LLMs • ML Systems • AI Infrastructure
 
-M.S. CS @ **University of Florida** 🎓
+M.S. CS @ **University of Florida**
 
 ### Connect
 
-LinkedIn • 📧 [pulkitgarg777@gmail.com](mailto:pulkitgarg777@gmail.com)
+LinkedIn • [pulkitgarg777@gmail.com](mailto:pulkitgarg777@gmail.com)
 
 ### Experience
 
