@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pulkit Garg
+# Hi, I'm Pulkit Garg 👋
 
 M.S. CS @ **University of Florida**
 
