@@ -10,16 +10,9 @@ LinkedIn • 📧 [pulkitgarg777@gmail.com](mailto:pulkitgarg777@gmail.com)
 
 ### Experience
 
-** AI/ML Intern · PathInfotech**
+- AI/ML Intern · PathInfotech
 Fine-tuned **LLaMA 3-8B** and built NLP pipelines for 1,500+ support requests, improving accuracy by **80%** and reducing latency by **30%**.
 
-** Research Intern · IIT Delhi**
+- Research Intern · IIT Delhi
 Built a developer analytics pipeline processing **10,000+ commits** and used ML clustering to identify productivity patterns.
-
-### Skills
-
-- **Languages:** Python • C++ • Java • SQL
-- **AI/ML:** PyTorch • Transformers • LLaMA • RAG • LoRA/QLoRA
-- **Infrastructure:** FastAPI • Docker • Kubernetes • AWS • CUDA
-- **Data/Tools:** PostgreSQL • Redis • MLflow • GitHub Actions
 
