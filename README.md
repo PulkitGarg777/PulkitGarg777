@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Pulkit Garg
 
-### AI/ML Engineer | LLMs • ML Systems • AI Infrastructure
-
 M.S. CS @ **University of Florida**
 
 ### Connect
